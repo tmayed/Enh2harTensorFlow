@@ -1,3 +1,8 @@
+enh_solver.so
+enh_tf_detail.ipynb
+sim_data_work.csv
+sim_data.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
